@@ -1,3 +1,5 @@
+# faster but takes more memeory
+
 class Solution(object):
     def isPalindrome(self, x):
         """
